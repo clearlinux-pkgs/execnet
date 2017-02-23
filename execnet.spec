@@ -4,13 +4,14 @@
 #
 Name     : execnet
 Version  : 1.4.1
-Release  : 15
+Release  : 16
 URL      : https://pypi.python.org/packages/source/e/execnet/execnet-1.4.1.tar.gz
 Source0  : https://pypi.python.org/packages/source/e/execnet/execnet-1.4.1.tar.gz
 Summary  : execnet: rapid multi-Python deployment
 Group    : Development/Tools
 License  : MIT
 Requires: execnet-python
+Requires: apipkg
 BuildRequires : apipkg
 BuildRequires : pbr
 BuildRequires : pip
@@ -41,12 +42,12 @@ python components for the execnet package.
 
 %build
 export LANG=C
-export SOURCE_DATE_EPOCH=1484545958
+export SOURCE_DATE_EPOCH=1487877051
 python2 setup.py build -b py2
 python3 setup.py build -b py3
 
 %install
-export SOURCE_DATE_EPOCH=1484545958
+export SOURCE_DATE_EPOCH=1487877051
 rm -rf %{buildroot}
 python2 -tt setup.py build -b py2 install --root=%{buildroot} --force
 python3 -tt setup.py build -b py3 install --root=%{buildroot} --force
