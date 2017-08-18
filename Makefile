@@ -1,5 +1,5 @@
 PKG_NAME := execnet
-URL := https://pypi.python.org/packages/source/e/execnet/execnet-1.4.1.tar.gz
+URL := http://pypi.debian.net/execnet/execnet-1.4.1.tar.gz
 
 
 include ../common/Makefile.common
