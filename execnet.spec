@@ -4,7 +4,7 @@
 #
 Name     : execnet
 Version  : 1.4.1
-Release  : 23
+Release  : 24
 URL      : http://pypi.debian.net/execnet/execnet-1.4.1.tar.gz
 Source0  : http://pypi.debian.net/execnet/execnet-1.4.1.tar.gz
 Summary  : execnet: rapid multi-Python deployment
