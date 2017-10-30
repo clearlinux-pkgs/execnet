@@ -61,6 +61,7 @@ audit
 autofs
 awscli
 babl
+backports.functools_lru_cache
 backports.ssl_match_hostname
 backports.weakref
 bash_kernel
@@ -78,6 +79,7 @@ botocore
 bz2file
 cairo
 ceph
+ceph-deploy
 certifi
 cffi
 chardet
@@ -91,6 +93,7 @@ cogl
 colorama
 colord
 colord-gtk
+comedilib
 compat-libwebp-soname6
 compat-llvm-soname4
 compat-opencv-soname32
@@ -115,6 +118,7 @@ deap
 decorator
 diffoscope
 dnf
+dnf-plugins-core
 dnspython
 docker
 docker-py
@@ -126,6 +130,7 @@ edk2
 entrypoints
 enum34
 eog
+evolution
 execnet
 exo
 extras
@@ -145,6 +150,7 @@ garcon
 gcr
 gcs-oauth2-boto-plugin
 gdk-pixbuf
+gdm
 geany
 gensim
 geoclue
@@ -155,23 +161,29 @@ git
 glances
 glib
 gmime
+gnome-applets
 gnome-autoar
 gnome-backgrounds
 gnome-bluetooth
+gnome-calculator
 gnome-calendar
 gnome-desktop
 gnome-font-viewer
 gnome-online-accounts
 gnome-panel
 gnome-session
+gnome-settings-daemon
 gnome-shell
 gnome-terminal
 gnome-tweak-tool
 gnutls
 gobject-introspection
+goocanvas
 google-apitools
+gpgme
 greenlet
 grilo
+grilo-plugins
 gst-plugins-bad
 gst-plugins-base
 gst-plugins-good
@@ -196,6 +208,7 @@ httpretty
 hypothesis
 ibus
 icalendar
+icdiff
 idna
 imagesize
 iotop
@@ -211,6 +224,7 @@ isa-l
 iso8601
 isort
 ister
+itstool
 javapackages-tools
 jedi
 jedi-vim
@@ -246,7 +260,9 @@ libarchive-c
 libcanberra
 libcroco
 libcryptui
+libdnf
 libgdata
+libglade
 libgnome-keyring
 libgsystem
 libgtop
@@ -287,6 +303,7 @@ linux-kvm
 linux-lts
 linux-tools
 llvm
+llvmlite
 logilab-common
 logutils
 lxml
@@ -297,6 +314,7 @@ matplotlib
 mccabe
 mesa
 meson
+metacity
 mido
 mistune
 mod_wsgi
@@ -304,6 +322,7 @@ moka-icon-theme
 mozjs
 mozjs38
 mutt
+mutter
 nasm
 nautilus
 nbconvert
@@ -322,6 +341,7 @@ nose
 nose-parameterized
 notebook
 numactl
+numba
 numpy
 oauth2client
 olefile
@@ -348,6 +368,7 @@ pickleshare
 pip
 pluggy
 polkit
+portaudio
 posix_ipc
 pretend
 prettytable
@@ -375,6 +396,7 @@ pynacl
 pyparsing
 pypy
 pyquery
+pyserial
 pytest
 pytest-cov
 pytest-runner
@@ -412,6 +434,7 @@ retry_decorator
 rsa
 s3transfer
 samba
+satyr
 scala
 scikit-build
 scikit-image
@@ -420,6 +443,7 @@ scipy
 scons
 scripttest
 scrnsaverproto
+seaborn
 secretstorage
 setproctitle
 setuptools
@@ -472,6 +496,7 @@ urllib3
 util-linux
 uwsgi
 vcversioner
+vinagre
 virt-viewer
 virtualenv
 vte
@@ -497,4 +522,5 @@ xproto
 xtrans
 yasm
 yum-metadata-parser
+zenity
 zstd
