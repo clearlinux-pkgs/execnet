@@ -4,7 +4,7 @@
 #
 Name     : execnet
 Version  : 1.5.0
-Release  : 31
+Release  : 32
 URL      : http://pypi.debian.net/execnet/execnet-1.5.0.tar.gz
 Source0  : http://pypi.debian.net/execnet/execnet-1.5.0.tar.gz
 Summary  : execnet: rapid multi-Python deployment
