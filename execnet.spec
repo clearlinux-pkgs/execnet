@@ -4,7 +4,7 @@
 #
 Name     : execnet
 Version  : 1.7.1
-Release  : 52
+Release  : 53
 URL      : https://files.pythonhosted.org/packages/5a/61/1b50e0891d9b934154637fdaac88c68a82fd8dc5648dfb04e65937fc6234/execnet-1.7.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/5a/61/1b50e0891d9b934154637fdaac88c68a82fd8dc5648dfb04e65937fc6234/execnet-1.7.1.tar.gz
 Summary  : execnet: rapid multi-Python deployment
