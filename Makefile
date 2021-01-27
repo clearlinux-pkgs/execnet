@@ -1,5 +1,5 @@
 PKG_NAME := execnet
-URL = https://files.pythonhosted.org/packages/5a/61/1b50e0891d9b934154637fdaac88c68a82fd8dc5648dfb04e65937fc6234/execnet-1.7.1.tar.gz
+URL = https://files.pythonhosted.org/packages/99/f6/1963d06df2a3ae483c5dc6ed292b472f8eb1764b0b6415eafa894d938e7c/execnet-1.8.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
