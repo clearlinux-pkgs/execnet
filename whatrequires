@@ -2,4 +2,5 @@
 ceph
 pytest
 pytest-xdist
+python-remoto
 python-zstandard
